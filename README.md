@@ -144,10 +144,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**[Your Name]**
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Margaret Waithira**
+- Email: n.waitherah@gmail.com
+- LinkedIn:
+- GitHub: 
 
 ## 🌍 Impact Statement
 
